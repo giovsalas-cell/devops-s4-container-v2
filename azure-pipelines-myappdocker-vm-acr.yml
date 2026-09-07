@@ -4,7 +4,7 @@ trigger:
       - main
 
 variables:
-  VM_IP_PUBLICA: "172.175.250.50"
+  VM_IP_PUBLICA: "20.44.123.145"
   IMAGE_NAME: "myapp-nginx-s4"
   ACR_NAME: "acrs4"
   ACR_USERNAME: "acrs4"
